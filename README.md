@@ -1,8 +1,8 @@
 # Face Detection App
 
-A beginner-friendly Python project that uses OpenCV to detect faces in real time through a webcam. This project was built as part of my early practice before college years to strengthen my Python programming skills and explore computer vision basics.
+This is a beginner-friendly Python project that uses OpenCV to detect faces in real time through a webcam. This project was built as part of my early practice before college years to strengthen my Python programming skills and explore computer vision basics.
 
-## Features
+## Features included in here
 
 - Real-time face detection from your webcam
 - Visual bounding boxes around detected faces
