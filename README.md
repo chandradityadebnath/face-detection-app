@@ -1,4 +1,8 @@
-# Face Detection App
+# 📷 Real-Time Face Detection App
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 This is a beginner-friendly Python project that uses OpenCV to detect faces in real time through a webcam. This project was built as part of my early practice before college years to strengthen my Python programming skills and explore computer vision basics.
 
